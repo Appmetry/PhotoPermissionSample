@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  PhotoPermissionTest
+//  PhotoPermissionSample
 //
 //  Created by Sumit Chaudhary on 30/01/24.
 //
